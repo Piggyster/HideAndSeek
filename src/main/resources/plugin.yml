@@ -1,0 +1,9 @@
+name: HideAndSeek
+version: 1.0
+api-version: 1.17
+author: Piggyster
+main: me.piggyster.hideandseek.HideAndSeekPlugin
+commands:
+  event: {}
+  selectblock: {}
+  remaining: {}
